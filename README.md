@@ -7,7 +7,6 @@
 - [Introducción](#introducción)
 - [Datos utilizados](#datos-utilizados)
 - [Autores](#autores)
-- [Dirección del proyecto](#dirección-del-proyecto)
 - [Aclaraciones y/o Responsabilidades](#aclaraciones-y-responsabilidades)
 
 ## Introducción
@@ -49,15 +48,6 @@ Este proyecto fue realizado utilizando fuentes de datos abiertos pertenecientes 
 <td align="center"><a href="https://github.com/SBoteroP"><img src="https://avatars.githubusercontent.com/u/68749776?s=400&u=985d505e9c62f2f7fa7d08a46e406a451995b5a4&v=4" width="100px;" alt=""/><br /><sub><b>Santiago Botero</b></sub></a><br /></td>
   </tr>
 </table>
-
-## Dirección del proyecto 
-Bajo la asesoria del Ingeniero PhD. Jhon Jairo Corredor Franco
-<table>
-  <tr>
-<td align="center"><a href="https://github.com/corredor-john"><img src="https://avatars.githubusercontent.com/u/82288780?v=4" width="100px;" alt=""/><br /><sub><b>Jhon Corredor</b></sub></a><br /></td>
-  </tr>
-</table>
-
 
 ## Aclaraciones y Responsabilidades
 
