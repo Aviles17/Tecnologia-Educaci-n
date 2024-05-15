@@ -1,7 +1,5 @@
 # Tecnologia-SABERPRO
 
-# Procesamiento de Datos a Gran Escala - Proyecto NY
-
 ![](https://www.javeriana.edu.co/recursosdb/20129/601896/escudo-footer.png)
 
 ## Tabla de Contenidos
